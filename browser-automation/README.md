@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=45&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=543.6k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-04&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=46&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=544.5k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-05&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -46,6 +46,7 @@
 | [**`Gemini-Nexus`**](https://github.com/yeahhe365/Gemini-Nexus) | Gemini Nexus 是一款面向浏览器场景的 AI 助手扩展，集成 Gemini Web、Gemini API 与 OpenAI 兼容接口，支持网页上下文、图像处理、工具调用和 MCP 浏览器控制。 | [![Stars](https://img.shields.io/github/stars/yeahhe365/Gemini-Nexus?style=flat&label=⭐)](https://github.com/yeahhe365/Gemini-Nexus) | `JavaScript` | [Explore ↗](https://github.com/yeahhe365/Gemini-Nexus) |
 | [**`UI-Venus`**](https://github.com/inclusionAI/UI-Venus) | UI-Venus is a general-purpose foundation GUI agent for mobile apps, web platforms, and desktop operating systems using only screenshots as input. | [![Stars](https://img.shields.io/github/stars/inclusionAI/UI-Venus?style=flat&label=⭐)](https://github.com/inclusionAI/UI-Venus) | `HTML` | [Explore ↗](https://github.com/inclusionAI/UI-Venus) |
 | [**`webbrain`**](https://github.com/webbrain-one/webbrain) | Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 | [![Stars](https://img.shields.io/github/stars/webbrain-one/webbrain?style=flat&label=⭐)](https://github.com/webbrain-one/webbrain) | `JavaScript` | [Explore ↗](https://github.com/webbrain-one/webbrain) |
+| [**`agent-qa`**](https://github.com/vostride/agent-qa) | Source-available (FSL-1.1-ALv2) QA harness for natural-language web and mobile tests, with CLI, dashboard, MCP, and persistent execution memory. | [![Stars](https://img.shields.io/github/stars/vostride/agent-qa?style=flat&label=⭐)](https://github.com/vostride/agent-qa) | `TypeScript` | [Explore ↗](https://github.com/vostride/agent-qa) |
 | [**`PawWork_ZhuaZhua`**](https://github.com/Player-YN/PawWork_ZhuaZhua) | Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server. | [![Stars](https://img.shields.io/github/stars/Player-YN/PawWork_ZhuaZhua?style=flat&label=⭐)](https://github.com/Player-YN/PawWork_ZhuaZhua) | `JavaScript` | [Explore ↗](https://github.com/Player-YN/PawWork_ZhuaZhua) |
 | [**`desktop`**](https://github.com/browser-use/desktop) | Browser Use Desktop App | [![Stars](https://img.shields.io/github/stars/browser-use/desktop?style=flat&label=⭐)](https://github.com/browser-use/desktop) | `TypeScript` | [Explore ↗](https://github.com/browser-use/desktop) |
 | [**`ClawBench`**](https://github.com/TIGER-AI-Lab/ClawBench) | Open-source benchmark for browser AI agents on daily tasks. | [![Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/ClawBench?style=flat&label=⭐)](https://github.com/TIGER-AI-Lab/ClawBench) | `Python` | [Explore ↗](https://github.com/TIGER-AI-Lab/ClawBench) |

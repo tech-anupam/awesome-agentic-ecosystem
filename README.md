@@ -2,10 +2,10 @@
 
 > A curated, fully automated grand master index of high-impact **AI Agents**, **Model Context Protocol (MCP) Servers**, **AI IDEs & Editors**, **CLI Agent Tools**, **Agent Skills**, and **Multi-Agent Frameworks**. Only battle-tested, high-utility tools — zero junk. 🤖🔌💻
 
-[![Total Tools](https://img.shields.io/static/v1?label=Total%20Tools&message=338&color=blue&style=for-the-badge&logo=github)](./scripts/tools.json) 
-[![Total Stars Tracked](https://img.shields.io/static/v1?label=Total%20Stars&message=7529.1k+&color=yellow&style=for-the-badge&logo=apachespark)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Total Tools](https://img.shields.io/static/v1?label=Total%20Tools&message=339&color=blue&style=for-the-badge&logo=github)](./scripts/tools.json) 
+[![Total Stars Tracked](https://img.shields.io/static/v1?label=Total%20Stars&message=7530.0k+&color=yellow&style=for-the-badge&logo=apachespark)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
 [![Auto Sync](https://img.shields.io/static/v1?label=Auto%20Sync&message=Daily%20Cron&color=brightgreen&style=for-the-badge&logo=githubactions)](./.github/workflows/update.yml) 
-[![Last Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-04&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Last Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-05&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
 [![License: MIT](https://img.shields.io/static/v1?label=License&message=MIT&color=purple&style=for-the-badge)](./LICENSE)
 
 [![Maintainer](https://img.shields.io/static/v1?label=Maintainer&message=tech-anupam&color=00C7B7&style=for-the-badge&logo=github)](https://github.com/tech-anupam) 
@@ -24,7 +24,7 @@
 | 🔌 **Model Context Protocol (MCP) Servers** | [`mcp-servers/`](./mcp-servers/) | `49 tools` | Standardized MCP servers, tool connectors, protocol implementations, and registries for Claude Desktop, Cursor, and custom agents. |
 | ⚡ **Agent Skills & Action Toolkits** | [`agent-skills/`](./agent-skills/) | `54 tools` | Function calling suites, tool integrations, external API bridges, and executable skillsets (Composio, Toolhouse, ToolJet). |
 | 🧩 **AI Plugins & IDE Extensions** | [`plugins-extensions/`](./plugins-extensions/) | `14 tools` | VS Code extensions, Cursor rules, JetBrains plugins, and environment enhancers for coding assistants (Continue, Roo-Cline, Cursorrules). |
-| 🌐 **Browser & Desktop Automation** | [`browser-automation/`](./browser-automation/) | `45 tools` | Vision-guided web agents, OS-level controllers, Playwright integrations, and GUI agents (Browser-Use, Stagehand, Open-Interpreter, UI-TARS). |
+| 🌐 **Browser & Desktop Automation** | [`browser-automation/`](./browser-automation/) | `46 tools` | Vision-guided web agents, OS-level controllers, Playwright integrations, and GUI agents (Browser-Use, Stagehand, Open-Interpreter, UI-TARS). |
 | 🧠 **Multi-Agent Frameworks & Orchestration** | [`frameworks-orchestration/`](./frameworks-orchestration/) | `47 tools` | Graph-based workflows, conversational multi-agent systems, and stateful agent coordinators (LangGraph, CrewAI, AutoGen, Dify, Swarm). |
 | 💾 **Memory, Context & RAG Engines** | [`memory-context/`](./memory-context/) | `32 tools` | Long-term memory layers, graph-based RAG engines, and persistent context architectures (Mem0, Letta/MemGPT, GraphRAG, Cognee). |
 | 🧪 **Evals, Sandboxes & Observability** | [`evals-sandboxes/`](./evals-sandboxes/) | `13 tools` | Safe code execution environments, agent tracing, cost analysis, and evaluation benchmarks (E2B, Langfuse, AgentOps, Helicone). |
@@ -39,7 +39,7 @@
 - [🔌 Model Context Protocol (MCP) Servers (49)](#-mcp-servers)
 - [⚡ Agent Skills & Action Toolkits (54)](#-agent-skills)
 - [🧩 AI Plugins & IDE Extensions (14)](#-plugins-extensions)
-- [🌐 Browser & Desktop Automation (45)](#-browser-automation)
+- [🌐 Browser & Desktop Automation (46)](#-browser-automation)
 - [🧠 Multi-Agent Frameworks & Orchestration (47)](#-frameworks-orchestration)
 - [💾 Memory, Context & RAG Engines (32)](#-memory-context)
 - [🧪 Evals, Sandboxes & Observability (13)](#-evals-sandboxes)
@@ -342,6 +342,7 @@
 | [**`Gemini-Nexus`**](https://github.com/yeahhe365/Gemini-Nexus) | Gemini Nexus 是一款面向浏览器场景的 AI 助手扩展，集成 Gemini Web、Gemini API 与 OpenAI 兼容接口，支持网页上下文、图像处理、工具调用和 MCP 浏览器控制。 | [![Stars](https://img.shields.io/github/stars/yeahhe365/Gemini-Nexus?style=flat&label=⭐)](https://github.com/yeahhe365/Gemini-Nexus) | `JavaScript` | [Explore ↗](https://github.com/yeahhe365/Gemini-Nexus) |
 | [**`UI-Venus`**](https://github.com/inclusionAI/UI-Venus) | UI-Venus is a general-purpose foundation GUI agent for mobile apps, web platforms, and desktop operating systems using only screenshots as input. | [![Stars](https://img.shields.io/github/stars/inclusionAI/UI-Venus?style=flat&label=⭐)](https://github.com/inclusionAI/UI-Venus) | `HTML` | [Explore ↗](https://github.com/inclusionAI/UI-Venus) |
 | [**`webbrain`**](https://github.com/webbrain-one/webbrain) | Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 | [![Stars](https://img.shields.io/github/stars/webbrain-one/webbrain?style=flat&label=⭐)](https://github.com/webbrain-one/webbrain) | `JavaScript` | [Explore ↗](https://github.com/webbrain-one/webbrain) |
+| [**`agent-qa`**](https://github.com/vostride/agent-qa) | Source-available (FSL-1.1-ALv2) QA harness for natural-language web and mobile tests, with CLI, dashboard, MCP, and persistent execution memory. | [![Stars](https://img.shields.io/github/stars/vostride/agent-qa?style=flat&label=⭐)](https://github.com/vostride/agent-qa) | `TypeScript` | [Explore ↗](https://github.com/vostride/agent-qa) |
 | [**`PawWork_ZhuaZhua`**](https://github.com/Player-YN/PawWork_ZhuaZhua) | Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server. | [![Stars](https://img.shields.io/github/stars/Player-YN/PawWork_ZhuaZhua?style=flat&label=⭐)](https://github.com/Player-YN/PawWork_ZhuaZhua) | `JavaScript` | [Explore ↗](https://github.com/Player-YN/PawWork_ZhuaZhua) |
 | [**`desktop`**](https://github.com/browser-use/desktop) | Browser Use Desktop App | [![Stars](https://img.shields.io/github/stars/browser-use/desktop?style=flat&label=⭐)](https://github.com/browser-use/desktop) | `TypeScript` | [Explore ↗](https://github.com/browser-use/desktop) |
 | [**`ClawBench`**](https://github.com/TIGER-AI-Lab/ClawBench) | Open-source benchmark for browser AI agents on daily tasks. | [![Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/ClawBench?style=flat&label=⭐)](https://github.com/TIGER-AI-Lab/ClawBench) | `Python` | [Explore ↗](https://github.com/TIGER-AI-Lab/ClawBench) |
@@ -472,6 +473,7 @@
 
 | Tool | Discovered Date | Stars | Category Folder |
 | :--- | :---: | :---: | :--- |
+| [**`agent-qa`**](https://github.com/vostride/agent-qa) | `2026-09-05` | ⭐ `901` | [🌐 Browser & Desktop Automation](./browser-automation/) |
 | [**`tick-stock-panel`**](https://github.com/shy3130/tick-stock-panel) | `2026-09-04` | ⭐ `4.3k` | [🧠 Multi-Agent Frameworks & Orchestration](./frameworks-orchestration/) |
 | [**`openscience`**](https://github.com/synthetic-sciences/openscience) | `2026-09-04` | ⭐ `3.5k` | [📟 CLI & Terminal Agent Tools](./cli-terminal-agents/) |
 | [**`js-reverse-mcp`**](https://github.com/zhizhuodemao/js-reverse-mcp) | `2026-09-04` | ⭐ `2.7k` | [🔌 Model Context Protocol (MCP) Servers](./mcp-servers/) |
@@ -479,7 +481,6 @@
 | [**`Octop`**](https://github.com/TencentCloud/Octop) | `2026-09-04` | ⭐ `1.4k` | [🧠 Multi-Agent Frameworks & Orchestration](./frameworks-orchestration/) |
 | [**`CloudBase-AI-Toolkit`**](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) | `2026-09-04` | ⭐ `1.1k` | [🔌 Model Context Protocol (MCP) Servers](./mcp-servers/) |
 | [**`wisp-science`**](https://github.com/xuzhougeng/wisp-science) | `2026-09-04` | ⭐ `1.1k` | [🔌 Model Context Protocol (MCP) Servers](./mcp-servers/) |
-| [**`CountBot`**](https://github.com/countbot-ai/CountBot) | `2026-09-04` | ⭐ `774` | [⚡ Agent Skills & Action Toolkits](./agent-skills/) |
 
 ---
 
