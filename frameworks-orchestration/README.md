@@ -4,6 +4,8 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=47&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=1133.2k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
 [![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=55&color=blue&style=for-the-badge)](./) 
 [![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=1295.3k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
 [![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-05&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
