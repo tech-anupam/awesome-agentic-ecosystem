@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=54&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=2124.0k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-06&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=52&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=1744.1k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-07&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -14,11 +14,9 @@
 
 | Tool | Description | Stars | Language | Direct Link |
 | :--- | :--- | :---: | :---: | :---: |
-| [**`ECC`**](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. | [![Stars](https://img.shields.io/github/stars/affaan-m/ECC?style=flat&label=⭐)](https://github.com/affaan-m/ECC) | `JavaScript` | [Explore ↗](https://github.com/affaan-m/ECC) |
 | [**`n8n`**](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=flat&label=⭐)](https://github.com/n8n-io/n8n) | `TypeScript` | [Explore ↗](https://github.com/n8n-io/n8n) |
 | [**`JavaGuide`**](https://github.com/Snailclimb/JavaGuide) | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 | [![Stars](https://img.shields.io/github/stars/Snailclimb/JavaGuide?style=flat&label=⭐)](https://github.com/Snailclimb/JavaGuide) | `JavaScript` | [Explore ↗](https://github.com/Snailclimb/JavaGuide) |
 | [**`open-webui`**](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | [![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=flat&label=⭐)](https://github.com/open-webui/open-webui) | `Python` | [Explore ↗](https://github.com/open-webui/open-webui) |
-| [**`cc-switch`**](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io | [![Stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=flat&label=⭐)](https://github.com/farion1231/cc-switch) | `Rust` | [Explore ↗](https://github.com/farion1231/cc-switch) |
 | [**`gemini-cli`**](https://github.com/google-gemini/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | [![Stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat&label=⭐)](https://github.com/google-gemini/gemini-cli) | `TypeScript` | [Explore ↗](https://github.com/google-gemini/gemini-cli) |
 | [**`awesome-mcp-servers`**](https://github.com/punkpeye/awesome-mcp-servers) | A collection of MCP servers. | [![Stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=flat&label=⭐)](https://github.com/punkpeye/awesome-mcp-servers) | `Markdown` | [Explore ↗](https://github.com/punkpeye/awesome-mcp-servers) |
 | [**`worldmonitor`**](https://github.com/koala73/worldmonitor) | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface | [![Stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=flat&label=⭐)](https://github.com/koala73/worldmonitor) | `TypeScript` | [Explore ↗](https://github.com/koala73/worldmonitor) |
