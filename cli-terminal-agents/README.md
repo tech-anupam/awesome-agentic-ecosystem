@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=51&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=2521.7k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-07&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=52&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=2644.4k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-08&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -22,6 +22,7 @@
 | [**`cc-switch`**](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io | [![Stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=flat&label=⭐)](https://github.com/farion1231/cc-switch) | `Rust` | [Explore ↗](https://github.com/farion1231/cc-switch) |
 | [**`ponytail`**](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | [![Stars](https://img.shields.io/github/stars/DietrichGebert/ponytail?style=flat&label=⭐)](https://github.com/DietrichGebert/ponytail) | `JavaScript` | [Explore ↗](https://github.com/DietrichGebert/ponytail) |
 | [**`ui-ux-pro-max-skill`**](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. | [![Stars](https://img.shields.io/github/stars/nextlevelbuilder/ui-ux-pro-max-skill?style=flat&label=⭐)](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | `Python` | [Explore ↗](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) |
+| [**`graphify`**](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. | [![Stars](https://img.shields.io/github/stars/Graphify-Labs/graphify?style=flat&label=⭐)](https://github.com/Graphify-Labs/graphify) | `Python` | [Explore ↗](https://github.com/Graphify-Labs/graphify) |
 | [**`caveman`**](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman | [![Stars](https://img.shields.io/github/stars/JuliusBrussee/caveman?style=flat&label=⭐)](https://github.com/JuliusBrussee/caveman) | `Go` | [Explore ↗](https://github.com/JuliusBrussee/caveman) |
 | [**`pi`**](https://github.com/earendil-works/pi) | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI | [![Stars](https://img.shields.io/github/stars/earendil-works/pi?style=flat&label=⭐)](https://github.com/earendil-works/pi) | `TypeScript` | [Explore ↗](https://github.com/earendil-works/pi) |
 | [**`open-design`**](https://github.com/nexu-io/open-design) | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. | [![Stars](https://img.shields.io/github/stars/nexu-io/open-design?style=flat&label=⭐)](https://github.com/nexu-io/open-design) | `Multi` | [Explore ↗](https://github.com/nexu-io/open-design) |
