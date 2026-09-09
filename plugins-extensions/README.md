@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=14&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=105.6k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-08&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=15&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=106.0k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-09&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -28,6 +28,7 @@
 | [**`vscode-acp`**](https://github.com/formulahendry/vscode-acp) | Agent Client Protocol client for VS Code — connect to any ACP-compatible AI coding agent (Claude, Codex, Copilot, Qwen, Gemini, OpenCode, Kiro, OpenClaw, Hermes and more) | [![Stars](https://img.shields.io/github/stars/formulahendry/vscode-acp?style=flat&label=⭐)](https://github.com/formulahendry/vscode-acp) | `TypeScript` | [Explore ↗](https://github.com/formulahendry/vscode-acp) |
 | [**`sage`**](https://github.com/gendigitalinc/sage) | Lightweight Agent Detection & Response (ADR) layer for AI agents — guards commands, files, and web requests. Part of Gen Agent Trust Hub. | [![Stars](https://img.shields.io/github/stars/gendigitalinc/sage?style=flat&label=⭐)](https://github.com/gendigitalinc/sage) | `TypeScript` | [Explore ↗](https://github.com/gendigitalinc/sage) |
 | [**`awesome-cursorrules-zh`**](https://github.com/holtwood/awesome-cursorrules-zh) | Cursor AI 编程规则精选集 - 132+ 规则，覆盖前端/后端/AI/DevOps 等 32 个领域 | [![Stars](https://img.shields.io/github/stars/holtwood/awesome-cursorrules-zh?style=flat&label=⭐)](https://github.com/holtwood/awesome-cursorrules-zh) | `JavaScript` | [Explore ↗](https://github.com/holtwood/awesome-cursorrules-zh) |
+| [**`ai-free`**](https://github.com/Staks-sor/ai-free) | Open-source local AI client and coding agent for DeepSeek, Qwen, ChatGPT and EconomyOS with memory, voice, browser tools, OpenAI/Anthropic-compatible APIs and VS Code. | [![Stars](https://img.shields.io/github/stars/Staks-sor/ai-free?style=flat&label=⭐)](https://github.com/Staks-sor/ai-free) | `JavaScript` | [Explore ↗](https://github.com/Staks-sor/ai-free) |
 
 ---
 
