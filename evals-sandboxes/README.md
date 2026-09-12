@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=13&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=39.7k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-11&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=14&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=43.4k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-12&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -18,6 +18,7 @@
 | [**`langfuse`**](https://github.com/langfuse/langfuse) | Open source LLM engineering platform: Observability, metrics, evaluations, prompt management, and playground for AI agents. | [![Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=flat&label=⭐)](https://github.com/langfuse/langfuse) | `TypeScript` | [Explore ↗](https://github.com/langfuse/langfuse) |
 | [**`AgentOps`**](https://github.com/AgentOps-AI/AgentOps) | AI agent observability, replay, and evaluation. Track agent cost, latency, token usage, failure points, and tool execution. | [![Stars](https://img.shields.io/github/stars/AgentOps-AI/AgentOps?style=flat&label=⭐)](https://github.com/AgentOps-AI/AgentOps) | `Python` | [Explore ↗](https://github.com/AgentOps-AI/AgentOps) |
 | [**`nono`**](https://github.com/nolabs-ai/nono) | secure multiplexed execution paths for agents - zero trust, zero setup, zero latency. | [![Stars](https://img.shields.io/github/stars/nolabs-ai/nono?style=flat&label=⭐)](https://github.com/nolabs-ai/nono) | `Rust` | [Explore ↗](https://github.com/nolabs-ai/nono) |
+| [**`mirage`**](https://github.com/strukto-ai/mirage) | The World's First Virtual Terminal for AI Agents | [![Stars](https://img.shields.io/github/stars/strukto-ai/mirage?style=flat&label=⭐)](https://github.com/strukto-ai/mirage) | `TypeScript` | [Explore ↗](https://github.com/strukto-ai/mirage) |
 | [**`failproofai`**](https://github.com/FailproofAI/failproofai) | Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement.  40 built-in policies, a local dashboard, no account required with a generous free cloud plan | [![Stars](https://img.shields.io/github/stars/FailproofAI/failproofai?style=flat&label=⭐)](https://github.com/FailproofAI/failproofai) | `MDX` | [Explore ↗](https://github.com/FailproofAI/failproofai) |
 | [**`agentconnect`**](https://github.com/agentconnect-md/agentconnect) | The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go. | [![Stars](https://img.shields.io/github/stars/agentconnect-md/agentconnect?style=flat&label=⭐)](https://github.com/agentconnect-md/agentconnect) | `TypeScript` | [Explore ↗](https://github.com/agentconnect-md/agentconnect) |
 | [**`clawk`**](https://github.com/clawkwork/clawk) | Give coding agents a disposable Linux VM, not your laptop | [![Stars](https://img.shields.io/github/stars/clawkwork/clawk?style=flat&label=⭐)](https://github.com/clawkwork/clawk) | `Go` | [Explore ↗](https://github.com/clawkwork/clawk) |

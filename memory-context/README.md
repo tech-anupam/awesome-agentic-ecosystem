@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=32&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=647.8k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-11&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=33&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=652.4k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-12&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -40,6 +40,7 @@
 | [**`kungfu`**](https://github.com/kungfu-systems/kungfu) | Your agents don’t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own execution surface. | [![Stars](https://img.shields.io/github/stars/kungfu-systems/kungfu?style=flat&label=⭐)](https://github.com/kungfu-systems/kungfu) | `C++` | [Explore ↗](https://github.com/kungfu-systems/kungfu) |
 | [**`m_flow`**](https://github.com/FlowElement-xinliuyuansu/m_flow) | A bio-inspired cognitive memory engine — a new paradigm for Graph RAG. | [![Stars](https://img.shields.io/github/stars/FlowElement-xinliuyuansu/m_flow?style=flat&label=⭐)](https://github.com/FlowElement-xinliuyuansu/m_flow) | `Python` | [Explore ↗](https://github.com/FlowElement-xinliuyuansu/m_flow) |
 | [**`awesome-harness-engineering`**](https://github.com/ai-boost/awesome-harness-engineering) | Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration. | [![Stars](https://img.shields.io/github/stars/ai-boost/awesome-harness-engineering?style=flat&label=⭐)](https://github.com/ai-boost/awesome-harness-engineering) | `Python` | [Explore ↗](https://github.com/ai-boost/awesome-harness-engineering) |
+| [**`pipeshub-ai`**](https://github.com/pipeshub-ai/pipeshub-ai) | PipesHub is an open-source platform for securely connecting enterprise knowledge to AI. Give AI agents trusted context and your team permission-aware search with verified citations across your business systems. | [![Stars](https://img.shields.io/github/stars/pipeshub-ai/pipeshub-ai?style=flat&label=⭐)](https://github.com/pipeshub-ai/pipeshub-ai) | `Python` | [Explore ↗](https://github.com/pipeshub-ai/pipeshub-ai) |
 | [**`neo`**](https://github.com/neomjs/neo) | Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops. | [![Stars](https://img.shields.io/github/stars/neomjs/neo?style=flat&label=⭐)](https://github.com/neomjs/neo) | `JavaScript` | [Explore ↗](https://github.com/neomjs/neo) |
 | [**`autoflow`**](https://github.com/pingcap/autoflow) | pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai | [![Stars](https://img.shields.io/github/stars/pingcap/autoflow?style=flat&label=⭐)](https://github.com/pingcap/autoflow) | `TypeScript` | [Explore ↗](https://github.com/pingcap/autoflow) |
 | [**`Awesome-GraphRAG`**](https://github.com/DEEP-PolyU/Awesome-GraphRAG) | Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation. | [![Stars](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG?style=flat&label=⭐)](https://github.com/DEEP-PolyU/Awesome-GraphRAG) | `Multi` | [Explore ↗](https://github.com/DEEP-PolyU/Awesome-GraphRAG) |

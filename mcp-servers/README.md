@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=63&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=1831.7k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-11&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=64&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=1833.4k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-12&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -71,6 +71,7 @@
 | [**`sandbase-harness`**](https://github.com/sandbaseai/sandbase-harness) | Local-first, self-hosted AI agent runtime and MCP bridge with sandboxed sessions, memory, credentials, audit/replay, and a local Console. | [![Stars](https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=flat&label=⭐)](https://github.com/sandbaseai/sandbase-harness) | `TypeScript` | [Explore ↗](https://github.com/sandbaseai/sandbase-harness) |
 | [**`Compartment`**](https://github.com/MaxFreedomPollard/Compartment) | Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creation, storage and retrieval. | [![Stars](https://img.shields.io/github/stars/MaxFreedomPollard/Compartment?style=flat&label=⭐)](https://github.com/MaxFreedomPollard/Compartment) | `Python` | [Explore ↗](https://github.com/MaxFreedomPollard/Compartment) |
 | [**`sdl-mcp`**](https://github.com/GlitterKill/sdl-mcp) | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence combined with precision tools.  It turns sprawling codebases into compact, high-signal context that saves tokens, speeds up workflows, and improves agent output. | [![Stars](https://img.shields.io/github/stars/GlitterKill/sdl-mcp?style=flat&label=⭐)](https://github.com/GlitterKill/sdl-mcp) | `TypeScript` | [Explore ↗](https://github.com/GlitterKill/sdl-mcp) |
+| [**`tunnel-client`**](https://github.com/openai/tunnel-client) | Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet. | [![Stars](https://img.shields.io/github/stars/openai/tunnel-client?style=flat&label=⭐)](https://github.com/openai/tunnel-client) | `Go` | [Explore ↗](https://github.com/openai/tunnel-client) |
 | [**`ue-mcp`**](https://github.com/db-lyon/ue-mcp) | Complete Unreal Engine development toolkit exposed as MCP tools. | [![Stars](https://img.shields.io/github/stars/db-lyon/ue-mcp?style=flat&label=⭐)](https://github.com/db-lyon/ue-mcp) | `C++` | [Explore ↗](https://github.com/db-lyon/ue-mcp) |
 | [**`Containarium`**](https://github.com/FootprintAI/Containarium) | Open-source agent runtime — SSH-native isolation, eBPF egress policy, Kubernetes + LXC backends, GPU passthrough, MCP-native CLI | [![Stars](https://img.shields.io/github/stars/FootprintAI/Containarium?style=flat&label=⭐)](https://github.com/FootprintAI/Containarium) | `Go` | [Explore ↗](https://github.com/FootprintAI/Containarium) |
 | [**`Cotal`**](https://github.com/Cotal-AI/Cotal) | The open standard for agent coordination | [![Stars](https://img.shields.io/github/stars/Cotal-AI/Cotal?style=flat&label=⭐)](https://github.com/Cotal-AI/Cotal) | `TypeScript` | [Explore ↗](https://github.com/Cotal-AI/Cotal) |
