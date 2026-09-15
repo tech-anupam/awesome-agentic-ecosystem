@@ -2,6 +2,8 @@
 
 > A curated, fully automated grand master index of high-impact **AI Agents**, **Model Context Protocol (MCP) Servers**, **AI IDEs & Editors**, **CLI Agent Tools**, **Agent Skills**, and **Multi-Agent Frameworks**. Only battle-tested, high-utility tools — zero junk. 🤖🔌💻
 
+[![Total Tools](https://img.shields.io/static/v1?label=Total%20Tools&message=426&color=blue&style=for-the-badge&logo=github)](./scripts/tools.json) 
+[![Total Stars Tracked](https://img.shields.io/static/v1?label=Total%20Stars&message=8311.5k+&color=yellow&style=for-the-badge&logo=apachespark)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
 [![Total Tools](https://img.shields.io/static/v1?label=Total%20Tools&message=431&color=blue&style=for-the-badge&logo=github)](./scripts/tools.json) 
 [![Total Stars Tracked](https://img.shields.io/static/v1?label=Total%20Stars&message=8353.3k+&color=yellow&style=for-the-badge&logo=apachespark)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
 [![Auto Sync](https://img.shields.io/static/v1?label=Auto%20Sync&message=Daily%20Cron&color=brightgreen&style=for-the-badge&logo=githubactions)](./.github/workflows/update.yml) 
@@ -158,6 +160,7 @@
 | [**`skilld`**](https://github.com/skilld-dev/skilld) | Curated agent skills by humans. Search, run, install, and keep them current from one CLI. | [![Stars](https://img.shields.io/github/stars/skilld-dev/skilld?style=flat&label=⭐)](https://github.com/skilld-dev/skilld) | `Rust` | [Explore ↗](https://github.com/skilld-dev/skilld) |
 | [**`humanizer-ru`**](https://github.com/ilyautov/humanizer-ru) | humanizer-ru: очеловечить русский AI-текст для Claude Code, Cursor, Codex и других AI-агентов | [![Stars](https://img.shields.io/github/stars/ilyautov/humanizer-ru?style=flat&label=⭐)](https://github.com/ilyautov/humanizer-ru) | `Python` | [Explore ↗](https://github.com/ilyautov/humanizer-ru) |
 | [**`kane-cli`**](https://github.com/LambdaTest/kane-cli) | Kane CLI by TestMu AI (Formerly LambdaTest) | [![Stars](https://img.shields.io/github/stars/LambdaTest/kane-cli?style=flat&label=⭐)](https://github.com/LambdaTest/kane-cli) | `JavaScript` | [Explore ↗](https://github.com/LambdaTest/kane-cli) |
+| [**`mulmoterminal`**](https://github.com/receptron/mulmoterminal) | Browser grid of live Claude Code / Codex sessions; each cell is a real PTY with a colour-coded status, tmux persistence and its own git worktree. | [![Stars](https://img.shields.io/github/stars/receptron/mulmoterminal?style=flat&label=⭐)](https://github.com/receptron/mulmoterminal) | `TypeScript` | [Explore ↗](https://github.com/receptron/mulmoterminal) |
 
 ## <a id="-autonomous-dev-agents"></a>🤖 Autonomous Software Engineering Agents
 > *Full-stack autonomous software engineers, issue solvers, and end-to-end project builders (OpenHands, SWE-agent, GPT-Pilot, MetaGPT, Devika).* • [📁 Browse `autonomous-dev-agents/` Directory](./autonomous-dev-agents/)
@@ -565,6 +568,14 @@
 
 | Tool | Discovered Date | Stars | Category Folder |
 | :--- | :---: | :---: | :--- |
+| [**`mulmoterminal`**](https://github.com/receptron/mulmoterminal) | `2026-09-15` | ⭐ `214` | [📟 CLI & Terminal Agent Tools](./cli-terminal-agents/) |
+| [**`leon`**](https://github.com/leon-ai/leon) | `2026-09-14` | ⭐ `17.5k` | [🧠 Multi-Agent Frameworks & Orchestration](./frameworks-orchestration/) |
+| [**`hermes-desktop`**](https://github.com/fathah/hermes-desktop) | `2026-09-14` | ⭐ `14.2k` | [🧠 Multi-Agent Frameworks & Orchestration](./frameworks-orchestration/) |
+| [**`J-Space-Cognition-Suite`**](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) | `2026-09-14` | ⭐ `3.0k` | [⚡ Agent Skills & Action Toolkits](./agent-skills/) |
+| [**`DSH-Desktop-EAC`**](https://github.com/DSH-EAC/DSH-Desktop-EAC) | `2026-09-14` | ⭐ `1.7k` | [📟 CLI & Terminal Agent Tools](./cli-terminal-agents/) |
+| [**`minutes`**](https://github.com/silverstein/minutes) | `2026-09-14` | ⭐ `1.5k` | [⚡ Agent Skills & Action Toolkits](./agent-skills/) |
+| [**`claude-code-workflows`**](https://github.com/shinpr/claude-code-workflows) | `2026-09-14` | ⭐ `681` | [⚡ Agent Skills & Action Toolkits](./agent-skills/) |
+| [**`Master-skill`**](https://github.com/xr843/Master-skill) | `2026-09-14` | ⭐ `393` | [⚡ Agent Skills & Action Toolkits](./agent-skills/) |
 | [**`eigent`**](https://github.com/eigent-ai/eigent) | `2026-09-15` | ⭐ `15.3k` | [⚡ Agent Skills & Action Toolkits](./agent-skills/) |
 | [**`genoffice`**](https://github.com/genspark-ai/genoffice) | `2026-09-15` | ⭐ `6.8k` | [📟 CLI & Terminal Agent Tools](./cli-terminal-agents/) |
 | [**`celesto`**](https://github.com/CelestoAI/celesto) | `2026-09-15` | ⭐ `916` | [🌐 Browser & Desktop Automation](./browser-automation/) |

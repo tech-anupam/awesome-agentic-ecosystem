@@ -5,6 +5,7 @@
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 [![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=56&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=2216.2k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
 [![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=2208.9k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
 [![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-15&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
@@ -70,6 +71,7 @@
 | [**`skilld`**](https://github.com/skilld-dev/skilld) | Curated agent skills by humans. Search, run, install, and keep them current from one CLI. | [![Stars](https://img.shields.io/github/stars/skilld-dev/skilld?style=flat&label=⭐)](https://github.com/skilld-dev/skilld) | `Rust` | [Explore ↗](https://github.com/skilld-dev/skilld) |
 | [**`humanizer-ru`**](https://github.com/ilyautov/humanizer-ru) | humanizer-ru: очеловечить русский AI-текст для Claude Code, Cursor, Codex и других AI-агентов | [![Stars](https://img.shields.io/github/stars/ilyautov/humanizer-ru?style=flat&label=⭐)](https://github.com/ilyautov/humanizer-ru) | `Python` | [Explore ↗](https://github.com/ilyautov/humanizer-ru) |
 | [**`kane-cli`**](https://github.com/LambdaTest/kane-cli) | Kane CLI by TestMu AI (Formerly LambdaTest) | [![Stars](https://img.shields.io/github/stars/LambdaTest/kane-cli?style=flat&label=⭐)](https://github.com/LambdaTest/kane-cli) | `JavaScript` | [Explore ↗](https://github.com/LambdaTest/kane-cli) |
+| [**`mulmoterminal`**](https://github.com/receptron/mulmoterminal) | Browser grid of live Claude Code / Codex sessions; each cell is a real PTY with a colour-coded status, tmux persistence and its own git worktree. | [![Stars](https://img.shields.io/github/stars/receptron/mulmoterminal?style=flat&label=⭐)](https://github.com/receptron/mulmoterminal) | `TypeScript` | [Explore ↗](https://github.com/receptron/mulmoterminal) |
 
 ---
 

@@ -8475,6 +8475,28 @@
       "hierarchical-reflection"
     ],
     "added_at": "2026-09-14",
+    "last_updated": "2026-09-14"
+  },
+  {
+    "full_name": "receptron/mulmoterminal",
+    "name": "mulmoterminal",
+    "url": "https://github.com/receptron/mulmoterminal",
+    "description": "Browser grid of live Claude Code / Codex sessions; each cell is a real PTY with a colour-coded status, tmux persistence and its own git worktree.",
+    "category": "cli_terminal_agents",
+    "stars": 214,
+    "forks": 30,
+    "language": "TypeScript",
+    "topics": [
+      "agentic-coding",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "git-worktree",
+      "parallel-agents",
+      "terminal"
+    ],
+    "added_at": "2026-09-15",
     "last_updated": "2026-09-15"
   }
 ]
