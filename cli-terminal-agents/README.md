@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=61&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=2786.8k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-16&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=59&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=2701.5k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-17&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -31,8 +31,6 @@
 | [**`Agent-Reach`**](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | [![Stars](https://img.shields.io/github/stars/Panniantong/Agent-Reach?style=flat&label=⭐)](https://github.com/Panniantong/Agent-Reach) | `Python` | [Explore ↗](https://github.com/Panniantong/Agent-Reach) |
 | [**`awesome-claude-skills`**](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | [![Stars](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=flat&label=⭐)](https://github.com/ComposioHQ/awesome-claude-skills) | `Python` | [Explore ↗](https://github.com/ComposioHQ/awesome-claude-skills) |
 | [**`career-ops`**](https://github.com/career-ops-hq/career-ops) | Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…) | [![Stars](https://img.shields.io/github/stars/career-ops-hq/career-ops?style=flat&label=⭐)](https://github.com/career-ops-hq/career-ops) | `JavaScript` | [Explore ↗](https://github.com/career-ops-hq/career-ops) |
-| [**`cherry-studio`**](https://github.com/CherryHQ/cherry-studio) | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs | [![Stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat&label=⭐)](https://github.com/CherryHQ/cherry-studio) | `TypeScript` | [Explore ↗](https://github.com/CherryHQ/cherry-studio) |
-| [**`CodeWhale`**](https://github.com/Hmbown/CodeWhale) | Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome. | [![Stars](https://img.shields.io/github/stars/Hmbown/CodeWhale?style=flat&label=⭐)](https://github.com/Hmbown/CodeWhale) | `Rust` | [Explore ↗](https://github.com/Hmbown/CodeWhale) |
 | [**`herdr`**](https://github.com/herdrdev/herdr) | the runtime your coding agents live on | [![Stars](https://img.shields.io/github/stars/herdrdev/herdr?style=flat&label=⭐)](https://github.com/herdrdev/herdr) | `Rust` | [Explore ↗](https://github.com/herdrdev/herdr) |
 | [**`continue`**](https://github.com/continuedev/continue) | open-source coding agent | [![Stars](https://img.shields.io/github/stars/continuedev/continue?style=flat&label=⭐)](https://github.com/continuedev/continue) | `TypeScript` | [Explore ↗](https://github.com/continuedev/continue) |
 | [**`DeepSeek-Reasonix`**](https://github.com/esengine/DeepSeek-Reasonix) | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. | [![Stars](https://img.shields.io/github/stars/esengine/DeepSeek-Reasonix?style=flat&label=⭐)](https://github.com/esengine/DeepSeek-Reasonix) | `Go` | [Explore ↗](https://github.com/esengine/DeepSeek-Reasonix) |
