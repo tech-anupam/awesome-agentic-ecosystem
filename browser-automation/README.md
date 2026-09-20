@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=55&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=620.9k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-19&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=56&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=621.9k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-20&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -62,6 +62,7 @@
 | [**`browser-search`**](https://github.com/Johell1NS/browser-search) | A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited. | [![Stars](https://img.shields.io/github/stars/Johell1NS/browser-search?style=flat&label=⭐)](https://github.com/Johell1NS/browser-search) | `JavaScript` | [Explore ↗](https://github.com/Johell1NS/browser-search) |
 | [**`flyto-core`**](https://github.com/flytohub/flyto-core) | AI said it finished. Flyto2 shows the proof. | [![Stars](https://img.shields.io/github/stars/flytohub/flyto-core?style=flat&label=⭐)](https://github.com/flytohub/flyto-core) | `Python` | [Explore ↗](https://github.com/flytohub/flyto-core) |
 | [**`bux`**](https://github.com/browser-use/bux) | Browser Use Box: a 24/7 Claude Code agent for Playwright-style browser automation with Browser Use Cloud, Telegram, and a real browser on any box you own. | [![Stars](https://img.shields.io/github/stars/browser-use/bux?style=flat&label=⭐)](https://github.com/browser-use/bux) | `Python` | [Explore ↗](https://github.com/browser-use/bux) |
+| [**`Interceptor`**](https://github.com/Hacker-Valley-Media/Interceptor) | Browser automation and computer use for AI agents. One CLI and MCP server for your signed-in browser, native macOS apps, and real iPhones. | [![Stars](https://img.shields.io/github/stars/Hacker-Valley-Media/Interceptor?style=flat&label=⭐)](https://github.com/Hacker-Valley-Media/Interceptor) | `TypeScript` | [Explore ↗](https://github.com/Hacker-Valley-Media/Interceptor) |
 | [**`grasp`**](https://github.com/cocofhu/grasp) | Grasp helps you manage multiple projects and parallel coding agents in one visual workflow, so humans can understand faster and ship more. | [![Stars](https://img.shields.io/github/stars/cocofhu/grasp?style=flat&label=⭐)](https://github.com/cocofhu/grasp) | `Go` | [Explore ↗](https://github.com/cocofhu/grasp) |
 | [**`PhysiClaw`**](https://github.com/physiclaw/PhysiClaw) | The AI agent that physically operates a phone — the way you do. | [![Stars](https://img.shields.io/github/stars/physiclaw/PhysiClaw?style=flat&label=⭐)](https://github.com/physiclaw/PhysiClaw) | `Python` | [Explore ↗](https://github.com/physiclaw/PhysiClaw) |
 | [**`CatGPT-Gateway`**](https://github.com/GautamVhavle/CatGPT-Gateway) | Turn your ChatGPT or Claude account into a fully working OpenAI-compatible API. No API keys needed. Supports tool calling, vision, file attachments, and image generation. | [![Stars](https://img.shields.io/github/stars/GautamVhavle/CatGPT-Gateway?style=flat&label=⭐)](https://github.com/GautamVhavle/CatGPT-Gateway) | `Python` | [Explore ↗](https://github.com/GautamVhavle/CatGPT-Gateway) |
