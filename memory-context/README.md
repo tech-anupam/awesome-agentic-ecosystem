@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=32&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=703.9k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-20&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=33&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=736.7k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-21&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -21,6 +21,7 @@
 | [**`LightRAG`**](https://github.com/HKUDS/LightRAG) | [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation | [![Stars](https://img.shields.io/github/stars/HKUDS/LightRAG?style=flat&label=⭐)](https://github.com/HKUDS/LightRAG) | `Python` | [Explore ↗](https://github.com/HKUDS/LightRAG) |
 | [**`OpenViking`**](https://github.com/volcengine/OpenViking) | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. | [![Stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=flat&label=⭐)](https://github.com/volcengine/OpenViking) | `Python` | [Explore ↗](https://github.com/volcengine/OpenViking) |
 | [**`graphrag`**](https://github.com/microsoft/graphrag) | A modular graph-based Retrieval-Augmented Generation (RAG) system | [![Stars](https://img.shields.io/github/stars/microsoft/graphrag?style=flat&label=⭐)](https://github.com/microsoft/graphrag) | `Python` | [Explore ↗](https://github.com/microsoft/graphrag) |
+| [**`code-review-graph`**](https://github.com/tirth8205/code-review-graph) | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. | [![Stars](https://img.shields.io/github/stars/tirth8205/code-review-graph?style=flat&label=⭐)](https://github.com/tirth8205/code-review-graph) | `Python` | [Explore ↗](https://github.com/tirth8205/code-review-graph) |
 | [**`cognee`**](https://github.com/topoteretes/cognee) | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. | [![Stars](https://img.shields.io/github/stars/topoteretes/cognee?style=flat&label=⭐)](https://github.com/topoteretes/cognee) | `Python` | [Explore ↗](https://github.com/topoteretes/cognee) |
 | [**`supermemory`**](https://github.com/supermemoryai/supermemory) | Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era. | [![Stars](https://img.shields.io/github/stars/supermemoryai/supermemory?style=flat&label=⭐)](https://github.com/supermemoryai/supermemory) | `TypeScript` | [Explore ↗](https://github.com/supermemoryai/supermemory) |
 | [**`mem0`**](https://github.com/mem0ai/mem0) | The Memory layer for Personalized AI. Universal long-term memory engine for AI agents and LLM applications. | [![Stars](https://img.shields.io/github/stars/mem0ai/mem0?style=flat&label=⭐)](https://github.com/mem0ai/mem0) | `Python` | [Explore ↗](https://github.com/mem0ai/mem0) |
