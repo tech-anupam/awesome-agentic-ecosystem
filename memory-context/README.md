@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=33&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=736.7k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-21&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=34&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=787.7k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-22&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -17,6 +17,7 @@
 | [**`graphify`**](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. | [![Stars](https://img.shields.io/github/stars/Graphify-Labs/graphify?style=flat&label=⭐)](https://github.com/Graphify-Labs/graphify) | `Python` | [Explore ↗](https://github.com/Graphify-Labs/graphify) |
 | [**`claude-mem`**](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More | [![Stars](https://img.shields.io/github/stars/thedotmack/claude-mem?style=flat&label=⭐)](https://github.com/thedotmack/claude-mem) | `JavaScript` | [Explore ↗](https://github.com/thedotmack/claude-mem) |
 | [**`MiroFish`**](https://github.com/666ghj/MiroFish) | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 | [![Stars](https://img.shields.io/github/stars/666ghj/MiroFish?style=flat&label=⭐)](https://github.com/666ghj/MiroFish) | `Python` | [Explore ↗](https://github.com/666ghj/MiroFish) |
+| [**`ai-agent-book`**](https://github.com/bojieli/ai-agent-book) | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 | [![Stars](https://img.shields.io/github/stars/bojieli/ai-agent-book?style=flat&label=⭐)](https://github.com/bojieli/ai-agent-book) | `Python` | [Explore ↗](https://github.com/bojieli/ai-agent-book) |
 | [**`tidb`**](https://github.com/pingcap/tidb) | TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling. | [![Stars](https://img.shields.io/github/stars/pingcap/tidb?style=flat&label=⭐)](https://github.com/pingcap/tidb) | `Go` | [Explore ↗](https://github.com/pingcap/tidb) |
 | [**`LightRAG`**](https://github.com/HKUDS/LightRAG) | [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation | [![Stars](https://img.shields.io/github/stars/HKUDS/LightRAG?style=flat&label=⭐)](https://github.com/HKUDS/LightRAG) | `Python` | [Explore ↗](https://github.com/HKUDS/LightRAG) |
 | [**`OpenViking`**](https://github.com/volcengine/OpenViking) | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. | [![Stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=flat&label=⭐)](https://github.com/volcengine/OpenViking) | `Python` | [Explore ↗](https://github.com/volcengine/OpenViking) |
