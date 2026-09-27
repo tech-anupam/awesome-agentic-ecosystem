@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=31&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=586.4k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-26&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=32&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=589.8k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-27&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -41,6 +41,7 @@
 | [**`pipeshub-ai`**](https://github.com/pipeshub-ai/pipeshub-ai) | PipesHub is an open-source platform for securely connecting enterprise knowledge to AI. Give AI agents trusted context and your team permission-aware search with verified citations across your business systems. | [![Stars](https://img.shields.io/github/stars/pipeshub-ai/pipeshub-ai?style=flat&label=⭐)](https://github.com/pipeshub-ai/pipeshub-ai) | `Python` | [Explore ↗](https://github.com/pipeshub-ai/pipeshub-ai) |
 | [**`neo`**](https://github.com/neomjs/neo) | Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops. | [![Stars](https://img.shields.io/github/stars/neomjs/neo?style=flat&label=⭐)](https://github.com/neomjs/neo) | `JavaScript` | [Explore ↗](https://github.com/neomjs/neo) |
 | [**`autoflow`**](https://github.com/pingcap/autoflow) | pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai | [![Stars](https://img.shields.io/github/stars/pingcap/autoflow?style=flat&label=⭐)](https://github.com/pingcap/autoflow) | `TypeScript` | [Explore ↗](https://github.com/pingcap/autoflow) |
+| [**`trustgraph`**](https://github.com/trustgraph-ai/trustgraph) | The Semantic Intelligence Layer for Ontologies | [![Stars](https://img.shields.io/github/stars/trustgraph-ai/trustgraph?style=flat&label=⭐)](https://github.com/trustgraph-ai/trustgraph) | `Python` | [Explore ↗](https://github.com/trustgraph-ai/trustgraph) |
 | [**`Awesome-GraphRAG`**](https://github.com/DEEP-PolyU/Awesome-GraphRAG) | Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation. | [![Stars](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG?style=flat&label=⭐)](https://github.com/DEEP-PolyU/Awesome-GraphRAG) | `Multi` | [Explore ↗](https://github.com/DEEP-PolyU/Awesome-GraphRAG) |
 | [**`SAG`**](https://github.com/Zleap-AI/SAG) | A new SOTA for RAG — an original retrieval architecture and an open-source knowledge base for humans and agents. | [![Stars](https://img.shields.io/github/stars/Zleap-AI/SAG?style=flat&label=⭐)](https://github.com/Zleap-AI/SAG) | `Python` | [Explore ↗](https://github.com/Zleap-AI/SAG) |
 | [**`bitterbot-desktop`**](https://github.com/Bitterbot-AI/bitterbot-desktop) | Bitterbot - a mesh of agents that turns shared experience into collective capability. | [![Stars](https://img.shields.io/github/stars/Bitterbot-AI/bitterbot-desktop?style=flat&label=⭐)](https://github.com/Bitterbot-AI/bitterbot-desktop) | `TypeScript` | [Explore ↗](https://github.com/Bitterbot-AI/bitterbot-desktop) |
