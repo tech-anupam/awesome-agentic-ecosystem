@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=22&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=431.3k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-10-03&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=24&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=485.0k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-10-04&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -16,6 +16,7 @@
 | :--- | :--- | :---: | :---: | :---: |
 | [**`openinterpreter`**](https://github.com/openinterpreter/openinterpreter) | A coding agent for open models like Kimi K3 and GLM 5.3 | [![Stars](https://img.shields.io/github/stars/openinterpreter/openinterpreter?style=flat&label=⭐)](https://github.com/openinterpreter/openinterpreter) | `Rust` | [Explore ↗](https://github.com/openinterpreter/openinterpreter) |
 | [**`awesome-claude-code`**](https://github.com/hesreallyhim/awesome-claude-code) | A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins | [![Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code?style=flat&label=⭐)](https://github.com/hesreallyhim/awesome-claude-code) | `Python` | [Explore ↗](https://github.com/hesreallyhim/awesome-claude-code) |
+| [**`ai-agent-book`**](https://github.com/bojieli/ai-agent-book) | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 | [![Stars](https://img.shields.io/github/stars/bojieli/ai-agent-book?style=flat&label=⭐)](https://github.com/bojieli/ai-agent-book) | `Python` | [Explore ↗](https://github.com/bojieli/ai-agent-book) |
 | [**`OpenHands`**](https://github.com/All-Hands-AI/OpenHands) | OpenHands: Code Less, Make More. A platform for software development agents capable of doing anything a human developer can do. | [![Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat&label=⭐)](https://github.com/All-Hands-AI/OpenHands) | `Python` | [Explore ↗](https://github.com/All-Hands-AI/OpenHands) |
 | [**`CodeWhale`**](https://github.com/Hmbown/CodeWhale) | Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome. | [![Stars](https://img.shields.io/github/stars/Hmbown/CodeWhale?style=flat&label=⭐)](https://github.com/Hmbown/CodeWhale) | `Rust` | [Explore ↗](https://github.com/Hmbown/CodeWhale) |
 | [**`DeepSeek-Reasonix`**](https://github.com/esengine/DeepSeek-Reasonix) | A reliable coding agent for complex software engineering tasks. | [![Stars](https://img.shields.io/github/stars/esengine/DeepSeek-Reasonix?style=flat&label=⭐)](https://github.com/esengine/DeepSeek-Reasonix) | `Go` | [Explore ↗](https://github.com/esengine/DeepSeek-Reasonix) |
@@ -35,6 +36,7 @@
 | [**`rllm`**](https://github.com/rllm-org/rllm) | Democratizing Reinforcement Learning for LLMs | [![Stars](https://img.shields.io/github/stars/rllm-org/rllm?style=flat&label=⭐)](https://github.com/rllm-org/rllm) | `Python` | [Explore ↗](https://github.com/rllm-org/rllm) |
 | [**`Fuxi`**](https://github.com/fuxicodex/Fuxi) | FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers. | [![Stars](https://img.shields.io/github/stars/fuxicodex/Fuxi?style=flat&label=⭐)](https://github.com/fuxicodex/Fuxi) | `Python` | [Explore ↗](https://github.com/fuxicodex/Fuxi) |
 | [**`paca`**](https://github.com/Paca-AI/paca) | AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals. Self-hosted. Fully customizable via config and plugins. | [![Stars](https://img.shields.io/github/stars/Paca-AI/paca?style=flat&label=⭐)](https://github.com/Paca-AI/paca) | `Go` | [Explore ↗](https://github.com/Paca-AI/paca) |
+| [**`opencode-telegram-bot`**](https://github.com/grinev/opencode-telegram-bot) | OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. OpenCode V2 support. | [![Stars](https://img.shields.io/github/stars/grinev/opencode-telegram-bot?style=flat&label=⭐)](https://github.com/grinev/opencode-telegram-bot) | `TypeScript` | [Explore ↗](https://github.com/grinev/opencode-telegram-bot) |
 | [**`Repo2RLEnv`**](https://github.com/huggingface/Repo2RLEnv) | Turn any repository into verifiable RL environments for coding agents - Harbor tasks you can train on, evaluate and share on the Hugging Face Hub | [![Stars](https://img.shields.io/github/stars/huggingface/Repo2RLEnv?style=flat&label=⭐)](https://github.com/huggingface/Repo2RLEnv) | `Python` | [Explore ↗](https://github.com/huggingface/Repo2RLEnv) |
 
 ---
