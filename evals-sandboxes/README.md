@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=13&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=40.2k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-10-04&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=14&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=46.7k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-10-05&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -16,6 +16,7 @@
 | :--- | :--- | :---: | :---: | :---: |
 | [**`E2B`**](https://github.com/e2b-dev/E2B) | Open-source, secure environment with real-world tools for enterprise-grade agents. | [![Stars](https://img.shields.io/github/stars/e2b-dev/E2B?style=flat&label=⭐)](https://github.com/e2b-dev/E2B) | `TypeScript` | [Explore ↗](https://github.com/e2b-dev/E2B) |
 | [**`langfuse`**](https://github.com/langfuse/langfuse) | Open source LLM engineering platform: Observability, metrics, evaluations, prompt management, and playground for AI agents. | [![Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=flat&label=⭐)](https://github.com/langfuse/langfuse) | `TypeScript` | [Explore ↗](https://github.com/langfuse/langfuse) |
+| [**`smolvm`**](https://github.com/smol-machines/smolvm) | An embeddable, portable, branchable virtual machine to safely run Agents locally. | [![Stars](https://img.shields.io/github/stars/smol-machines/smolvm?style=flat&label=⭐)](https://github.com/smol-machines/smolvm) | `Rust` | [Explore ↗](https://github.com/smol-machines/smolvm) |
 | [**`nono`**](https://github.com/nolabs-ai/nono) | agent runtime security - zero trust, zero setup, zero latency micro sandboxes | [![Stars](https://img.shields.io/github/stars/nolabs-ai/nono?style=flat&label=⭐)](https://github.com/nolabs-ai/nono) | `Rust` | [Explore ↗](https://github.com/nolabs-ai/nono) |
 | [**`AgentOps`**](https://github.com/AgentOps-AI/AgentOps) | AI agent observability, replay, and evaluation. Track agent cost, latency, token usage, failure points, and tool execution. | [![Stars](https://img.shields.io/github/stars/AgentOps-AI/AgentOps?style=flat&label=⭐)](https://github.com/AgentOps-AI/AgentOps) | `Python` | [Explore ↗](https://github.com/AgentOps-AI/AgentOps) |
 | [**`failproofai`**](https://github.com/FailproofAI/failproofai) | Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement.  40 built-in policies, a local dashboard, no account required with a generous free cloud plan | [![Stars](https://img.shields.io/github/stars/FailproofAI/failproofai?style=flat&label=⭐)](https://github.com/FailproofAI/failproofai) | `MDX` | [Explore ↗](https://github.com/FailproofAI/failproofai) |
