@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=16&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=116.9k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-10-11&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=17&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=117.1k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-10-12&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -30,6 +30,7 @@
 | [**`Free-Cursor-Pro`**](https://github.com/diamondkeeperchasm/Free-Cursor-Pro) | Free Cursor Pro — Unlock unlimited GPT-4, Claude 3.5, and Pro features without subscription. Bypass quota limits, reset infinite trials, and activate Cursor IDE lifetime access. Includes hardware ID spoofing, multi-account rotation, custom API keys, jailbreak prompts, and VIP themes. Save $240/year. Windows 10/11. One-click install. | [![Stars](https://img.shields.io/github/stars/diamondkeeperchasm/Free-Cursor-Pro?style=flat&label=⭐)](https://github.com/diamondkeeperchasm/Free-Cursor-Pro) | `Multi` | [Explore ↗](https://github.com/diamondkeeperchasm/Free-Cursor-Pro) |
 | [**`awesome-cursorrules-zh`**](https://github.com/holtwood/awesome-cursorrules-zh) | Cursor AI 编程规则精选集 - 132+ 规则，覆盖前端/后端/AI/DevOps 等 32 个领域 | [![Stars](https://img.shields.io/github/stars/holtwood/awesome-cursorrules-zh?style=flat&label=⭐)](https://github.com/holtwood/awesome-cursorrules-zh) | `JavaScript` | [Explore ↗](https://github.com/holtwood/awesome-cursorrules-zh) |
 | [**`ai-free`**](https://github.com/Staks-sor/ai-free) | Open-source local AI client and coding agent for DeepSeek, Qwen, ChatGPT and EconomyOS with memory, voice, browser tools, OpenAI/Anthropic-compatible APIs and VS Code. | [![Stars](https://img.shields.io/github/stars/Staks-sor/ai-free?style=flat&label=⭐)](https://github.com/Staks-sor/ai-free) | `JavaScript` | [Explore ↗](https://github.com/Staks-sor/ai-free) |
+| [**`Pendant`**](https://github.com/cdervis/Pendant) | The Pi coding agent, built into VS Code. | [![Stars](https://img.shields.io/github/stars/cdervis/Pendant?style=flat&label=⭐)](https://github.com/cdervis/Pendant) | `Multi` | [Explore ↗](https://github.com/cdervis/Pendant) |
 
 ---
 
