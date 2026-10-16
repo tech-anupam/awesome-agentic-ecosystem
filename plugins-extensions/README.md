@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=17&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=117.2k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-10-15&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=18&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=120.9k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-10-16&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -20,6 +20,7 @@
 | [**`Roo-Cline`**](https://github.com/RooVetGit/Roo-Cline) | Autonomous coding assistant for VS Code with custom modes, sound effects, browser testing, and custom MCP support. | [![Stars](https://img.shields.io/github/stars/RooVetGit/Roo-Cline?style=flat&label=⭐)](https://github.com/RooVetGit/Roo-Cline) | `TypeScript` | [Explore ↗](https://github.com/RooVetGit/Roo-Cline) |
 | [**`costrict`**](https://github.com/zgsm-ai/costrict) | Costrict - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion. | [![Stars](https://img.shields.io/github/stars/zgsm-ai/costrict?style=flat&label=⭐)](https://github.com/zgsm-ai/costrict) | `TypeScript` | [Explore ↗](https://github.com/zgsm-ai/costrict) |
 | [**`KiroCrew`**](https://github.com/kirodotdev/KiroCrew) | A persistent workspace for development work that self-improves and continues beyond one session. | [![Stars](https://img.shields.io/github/stars/kirodotdev/KiroCrew?style=flat&label=⭐)](https://github.com/kirodotdev/KiroCrew) | `Python` | [Explore ↗](https://github.com/kirodotdev/KiroCrew) |
+| [**`twinny`**](https://github.com/twinnydotdev/twinny) | Open-source AI coding assistant for VS Code. Coding agent, code completion, chat, edits and reviews with local or hosted models. Your models, your infrastructure. | [![Stars](https://img.shields.io/github/stars/twinnydotdev/twinny?style=flat&label=⭐)](https://github.com/twinnydotdev/twinny) | `TypeScript` | [Explore ↗](https://github.com/twinnydotdev/twinny) |
 | [**`getspecstory`**](https://github.com/specstoryai/getspecstory) | Install our local first extensions for your favorite AI IDE or Terminal Agent. Process your histories into reusable skills with Lore. Sync your conversations to the cloud. File issues and requests. | [![Stars](https://img.shields.io/github/stars/specstoryai/getspecstory?style=flat&label=⭐)](https://github.com/specstoryai/getspecstory) | `Go` | [Explore ↗](https://github.com/specstoryai/getspecstory) |
 | [**`Mysti`**](https://github.com/DeepMyst/Mysti) | AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code. | [![Stars](https://img.shields.io/github/stars/DeepMyst/Mysti?style=flat&label=⭐)](https://github.com/DeepMyst/Mysti) | `TypeScript` | [Explore ↗](https://github.com/DeepMyst/Mysti) |
 | [**`kibitz`**](https://github.com/kibitzsh/kibitz) | Real-time decoded feed of AI agent actions — monitor multiple Claude Code & Codex sessions, see exactly what each agent is doing, and coordinate swarms efficiently | [![Stars](https://img.shields.io/github/stars/kibitzsh/kibitz?style=flat&label=⭐)](https://github.com/kibitzsh/kibitz) | `TypeScript` | [Explore ↗](https://github.com/kibitzsh/kibitz) |

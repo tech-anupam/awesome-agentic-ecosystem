@@ -5,8 +5,8 @@
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 [![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=25&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=198.0k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-10-15&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=198.2k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-10-16&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -37,7 +37,7 @@
 | [**`mco`**](https://github.com/mco-org/mco) | CLI-first orchestration for AI coding agents: run selected agents and models in parallel, compare raw answers, and coordinate review or implementation workflows. | [![Stars](https://img.shields.io/github/stars/mco-org/mco?style=flat&label=⭐)](https://github.com/mco-org/mco) | `Python` | [Explore ↗](https://github.com/mco-org/mco) |
 | [**`awesome-cursor-download`**](https://github.com/worryzyy/awesome-cursor-download) | Cursor历史版本下载、Cursor下载链接追踪器，Cursor beta版本、 Cursor下载中心 | [![Stars](https://img.shields.io/github/stars/worryzyy/awesome-cursor-download?style=flat&label=⭐)](https://github.com/worryzyy/awesome-cursor-download) | `TypeScript` | [Explore ↗](https://github.com/worryzyy/awesome-cursor-download) |
 | [**`super-dev`**](https://github.com/shangyankeji/super-dev) | Engineering workflow layer for AI coding tools with specs, review, quality gates, and traceability.为 AI 编程工具提供工程化流程、质量门禁与可追溯能力。 | [![Stars](https://img.shields.io/github/stars/shangyankeji/super-dev?style=flat&label=⭐)](https://github.com/shangyankeji/super-dev) | `Python` | [Explore ↗](https://github.com/shangyankeji/super-dev) |
-| [**`Oleafly`**](https://github.com/Oleafly/Oleafly) | The local-first AI assisted research workspace for scientific writing & publishing. Research, Write, Compile, Verify and Publish in LaTeX • Typst • Markdown • Git-native • Open Source • Desktop Performance | [![Stars](https://img.shields.io/github/stars/Oleafly/Oleafly?style=flat&label=⭐)](https://github.com/Oleafly/Oleafly) | `TypeScript` | [Explore ↗](https://github.com/Oleafly/Oleafly) |
+| [**`Oleafly`**](https://github.com/Oleafly/Oleafly) | A powerful live collaborative LaTeX, Typst & Markdown editor with shared cursors, comments, cloud sync, and AI agents like Claude Code & Codex that help you write your research faster. Self-host the server, import projects from your online LaTeX account, cite from Zotero and keep every version in Git. Free and open source for Mac, Windows & Linux. | [![Stars](https://img.shields.io/github/stars/Oleafly/Oleafly?style=flat&label=⭐)](https://github.com/Oleafly/Oleafly) | `TypeScript` | [Explore ↗](https://github.com/Oleafly/Oleafly) |
 | [**`code-editor-toolkit`**](https://github.com/Nexusauneedle/code-editor-toolkit) | Code Editor Toolkit | [![Stars](https://img.shields.io/github/stars/Nexusauneedle/code-editor-toolkit?style=flat&label=⭐)](https://github.com/Nexusauneedle/code-editor-toolkit) | `Multi` | [Explore ↗](https://github.com/Nexusauneedle/code-editor-toolkit) |
 
 ---
