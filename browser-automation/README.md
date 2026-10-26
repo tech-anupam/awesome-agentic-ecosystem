@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=77&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=759.4k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-10-25&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=78&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=760.8k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-10-26&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -78,6 +78,7 @@
 | [**`axuse`**](https://github.com/ctoldigital/axuse) | Accessibility-first browser & computer use for AI agents — one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of screenshot loops: diffed snapshots, stable element refs, trusted input, typed errors. Zero dependencies | [![Stars](https://img.shields.io/github/stars/ctoldigital/axuse?style=flat&label=⭐)](https://github.com/ctoldigital/axuse) | `JavaScript` | [Explore ↗](https://github.com/ctoldigital/axuse) |
 | [**`flyto-core`**](https://github.com/flytohub/flyto-core) | AI said it finished. Flyto2 shows the proof. | [![Stars](https://img.shields.io/github/stars/flytohub/flyto-core?style=flat&label=⭐)](https://github.com/flytohub/flyto-core) | `Python` | [Explore ↗](https://github.com/flytohub/flyto-core) |
 | [**`bux`**](https://github.com/browser-use/bux) | Browser Use Box: a 24/7 Claude Code agent for Playwright-style browser automation with Browser Use Cloud, Telegram, and a real browser on any box you own. | [![Stars](https://img.shields.io/github/stars/browser-use/bux?style=flat&label=⭐)](https://github.com/browser-use/bux) | `Python` | [Explore ↗](https://github.com/browser-use/bux) |
+| [**`camofox-browser`**](https://github.com/redf0x1/camofox-browser) | Anti-detection browser server for AI agents — REST API wrapping Camoufox engine with OpenClaw plugin support | [![Stars](https://img.shields.io/github/stars/redf0x1/camofox-browser?style=flat&label=⭐)](https://github.com/redf0x1/camofox-browser) | `JavaScript` | [Explore ↗](https://github.com/redf0x1/camofox-browser) |
 | [**`PhysiClaw`**](https://github.com/physiclaw/PhysiClaw) | The AI agent that physically operates a phone — the way you do. | [![Stars](https://img.shields.io/github/stars/physiclaw/PhysiClaw?style=flat&label=⭐)](https://github.com/physiclaw/PhysiClaw) | `Python` | [Explore ↗](https://github.com/physiclaw/PhysiClaw) |
 | [**`open-browser-use`**](https://github.com/iFurySt/open-browser-use) | 🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple. | [![Stars](https://img.shields.io/github/stars/iFurySt/open-browser-use?style=flat&label=⭐)](https://github.com/iFurySt/open-browser-use) | `JavaScript` | [Explore ↗](https://github.com/iFurySt/open-browser-use) |
 | [**`grasp`**](https://github.com/cocofhu/grasp) | Grasp helps you manage multiple projects and parallel coding agents in one visual workflow, so humans can understand faster and ship more. | [![Stars](https://img.shields.io/github/stars/cocofhu/grasp?style=flat&label=⭐)](https://github.com/cocofhu/grasp) | `Go` | [Explore ↗](https://github.com/cocofhu/grasp) |
