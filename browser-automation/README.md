@@ -5,8 +5,8 @@
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 [![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=79&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=770.0k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-10-28&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=771.4k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-10-29&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -23,8 +23,8 @@
 | [**`cua`**](https://github.com/trycua/cua) | Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation. | [![Stars](https://img.shields.io/github/stars/trycua/cua?style=flat&label=⭐)](https://github.com/trycua/cua) | `HTML` | [Explore ↗](https://github.com/trycua/cua) |
 | [**`OpenCLI`**](https://github.com/jackwener/OpenCLI) | Make Any Website into CLI & Use your logged-in browser by AI agent. | [![Stars](https://img.shields.io/github/stars/jackwener/OpenCLI?style=flat&label=⭐)](https://github.com/jackwener/OpenCLI) | `JavaScript` | [Explore ↗](https://github.com/jackwener/OpenCLI) |
 | [**`Jobs_Applier_AI_Agent_AIHawk`**](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) | Open source AI job application toolkit in Python: generate a resume and cover letter tailored to each job posting, and drive a stealth browser from any AI client over MCP. | [![Stars](https://img.shields.io/github/stars/feder-cr/Jobs_Applier_AI_Agent_AIHawk?style=flat&label=⭐)](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) | `Python` | [Explore ↗](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) |
-| [**`page-agent`**](https://github.com/alibaba/page-agent) | JavaScript in-page GUI agent. Control web interfaces with natural language. | [![Stars](https://img.shields.io/github/stars/alibaba/page-agent?style=flat&label=⭐)](https://github.com/alibaba/page-agent) | `TypeScript` | [Explore ↗](https://github.com/alibaba/page-agent) |
 | [**`obscura`**](https://github.com/h4ckf0r0day/obscura) | The headless browser for AI agents and web scraping | [![Stars](https://img.shields.io/github/stars/h4ckf0r0day/obscura?style=flat&label=⭐)](https://github.com/h4ckf0r0day/obscura) | `Rust` | [Explore ↗](https://github.com/h4ckf0r0day/obscura) |
+| [**`page-agent`**](https://github.com/alibaba/page-agent) | JavaScript in-page GUI agent. Control web interfaces with natural language. | [![Stars](https://img.shields.io/github/stars/alibaba/page-agent?style=flat&label=⭐)](https://github.com/alibaba/page-agent) | `TypeScript` | [Explore ↗](https://github.com/alibaba/page-agent) |
 | [**`stagehand`**](https://github.com/browserbase/stagehand) | The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more. | [![Stars](https://img.shields.io/github/stars/browserbase/stagehand?style=flat&label=⭐)](https://github.com/browserbase/stagehand) | `TypeScript` | [Explore ↗](https://github.com/browserbase/stagehand) |
 | [**`skyvern`**](https://github.com/Skyvern-AI/skyvern) | Automate browser based workflows with AI | [![Stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=flat&label=⭐)](https://github.com/Skyvern-AI/skyvern) | `Python` | [Explore ↗](https://github.com/Skyvern-AI/skyvern) |
 | [**`moli`**](https://github.com/lexmount/moli) | Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust | [![Stars](https://img.shields.io/github/stars/lexmount/moli?style=flat&label=⭐)](https://github.com/lexmount/moli) | `Rust` | [Explore ↗](https://github.com/lexmount/moli) |

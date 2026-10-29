@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=25&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=440.8k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-10-28&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=26&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=441.3k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-10-29&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -39,6 +39,7 @@
 | [**`opencode-telegram-bot`**](https://github.com/grinev/opencode-telegram-bot) | OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. OpenCode V2 support. | [![Stars](https://img.shields.io/github/stars/grinev/opencode-telegram-bot?style=flat&label=⭐)](https://github.com/grinev/opencode-telegram-bot) | `TypeScript` | [Explore ↗](https://github.com/grinev/opencode-telegram-bot) |
 | [**`Repo2RLEnv`**](https://github.com/huggingface/Repo2RLEnv) | Turn any repository into verifiable RL environments for coding agents - Harbor tasks you can train on, evaluate and share on the Hugging Face Hub | [![Stars](https://img.shields.io/github/stars/huggingface/Repo2RLEnv?style=flat&label=⭐)](https://github.com/huggingface/Repo2RLEnv) | `Python` | [Explore ↗](https://github.com/huggingface/Repo2RLEnv) |
 | [**`RepoLaunch`**](https://github.com/microsoft/RepoLaunch) | [NeurIPS 2026 Main] Automate the build, execution and test of software repositories across programming languages and operating systems. | [![Stars](https://img.shields.io/github/stars/microsoft/RepoLaunch?style=flat&label=⭐)](https://github.com/microsoft/RepoLaunch) | `Python` | [Explore ↗](https://github.com/microsoft/RepoLaunch) |
+| [**`swe-sweep`**](https://github.com/facebookresearch/swe-sweep) | How many bugs can LMs find & fix in large codebases? | [![Stars](https://img.shields.io/github/stars/facebookresearch/swe-sweep?style=flat&label=⭐)](https://github.com/facebookresearch/swe-sweep) | `Python` | [Explore ↗](https://github.com/facebookresearch/swe-sweep) |
 
 ---
 
