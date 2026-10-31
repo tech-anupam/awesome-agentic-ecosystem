@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=120&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=3124.7k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-10-30&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=121&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=3131.3k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-10-31&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -134,6 +134,7 @@
 | [**`x-twitter-scraper`**](https://github.com/Xquik-dev/x-twitter-scraper) | X (Twitter) scraper API & Twitter MCP server to scrape tweets, profiles & followers. Not affiliated with X Corp. | [![Stars](https://img.shields.io/github/stars/Xquik-dev/x-twitter-scraper?style=flat&label=⭐)](https://github.com/Xquik-dev/x-twitter-scraper) | `TypeScript` | [Explore ↗](https://github.com/Xquik-dev/x-twitter-scraper) |
 | [**`engrim`**](https://github.com/timgordontg/engrim) | The Universal Cross-Model Episodic Memory Standard. Local-first, project-scoped SQLite memory engine for Google Antigravity, Claude Code, Cursor, Windsurf, and Codex. Zero cloud lock-in. | [![Stars](https://img.shields.io/github/stars/timgordontg/engrim?style=flat&label=⭐)](https://github.com/timgordontg/engrim) | `Python` | [Explore ↗](https://github.com/timgordontg/engrim) |
 | [**`awesome-hermes-usecases`**](https://github.com/aliaihub/awesome-hermes-usecases) | Curated real-world use cases for Hermes Agent — the self-improving AI agent from Nous Research. Backed by primary sources. | [![Stars](https://img.shields.io/github/stars/aliaihub/awesome-hermes-usecases?style=flat&label=⭐)](https://github.com/aliaihub/awesome-hermes-usecases) | `Python` | [Explore ↗](https://github.com/aliaihub/awesome-hermes-usecases) |
+| [**`agent-workspace-linux`**](https://github.com/agent-sh/agent-workspace-linux) | Isolated Linux desktop workspaces for AI agents — a hidden, agent-owned desktop and browser over MCP, so an agent can do GUI and web work without touching your real desktop. | [![Stars](https://img.shields.io/github/stars/agent-sh/agent-workspace-linux?style=flat&label=⭐)](https://github.com/agent-sh/agent-workspace-linux) | `Rust` | [Explore ↗](https://github.com/agent-sh/agent-workspace-linux) |
 
 ---
 
