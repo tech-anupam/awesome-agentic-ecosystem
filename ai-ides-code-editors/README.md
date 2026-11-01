@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=26&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=207.4k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-10-31&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=27&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=209.4k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-11-01&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -27,6 +27,7 @@
 | [**`BitFun`**](https://github.com/GCWing/BitFun) | OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development. | [![Stars](https://img.shields.io/github/stars/GCWing/BitFun?style=flat&label=⭐)](https://github.com/GCWing/BitFun) | `Rust` | [Explore ↗](https://github.com/GCWing/BitFun) |
 | [**`Zoo-Code`**](https://github.com/Zoo-Code-Org/Zoo-Code) | Zoo Code gives you a whole dev team of AI agents in your code editor. | [![Stars](https://img.shields.io/github/stars/Zoo-Code-Org/Zoo-Code?style=flat&label=⭐)](https://github.com/Zoo-Code-Org/Zoo-Code) | `TypeScript` | [Explore ↗](https://github.com/Zoo-Code-Org/Zoo-Code) |
 | [**`nezha`**](https://github.com/hanshuaikang/nezha) | Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine. | [![Stars](https://img.shields.io/github/stars/hanshuaikang/nezha?style=flat&label=⭐)](https://github.com/hanshuaikang/nezha) | `TypeScript` | [Explore ↗](https://github.com/hanshuaikang/nezha) |
+| [**`skills-hub`**](https://github.com/qufei1993/skills-hub) | A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”. | [![Stars](https://img.shields.io/github/stars/qufei1993/skills-hub?style=flat&label=⭐)](https://github.com/qufei1993/skills-hub) | `Rust` | [Explore ↗](https://github.com/qufei1993/skills-hub) |
 | [**`nopua`**](https://github.com/wuji-labs/nopua) | 一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love. | [![Stars](https://img.shields.io/github/stars/wuji-labs/nopua?style=flat&label=⭐)](https://github.com/wuji-labs/nopua) | `Python` | [Explore ↗](https://github.com/wuji-labs/nopua) |
 | [**`eca`**](https://github.com/editor-code-assistant/eca) | Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor | [![Stars](https://img.shields.io/github/stars/editor-code-assistant/eca?style=flat&label=⭐)](https://github.com/editor-code-assistant/eca) | `Clojure` | [Explore ↗](https://github.com/editor-code-assistant/eca) |
 | [**`markra`**](https://github.com/markrahq/markra) | A WYSIWYG Markdown editor with native AI. Fully open source. Free to use. Your data stays local. | [![Stars](https://img.shields.io/github/stars/markrahq/markra?style=flat&label=⭐)](https://github.com/markrahq/markra) | `TypeScript` | [Explore ↗](https://github.com/markrahq/markra) |
