@@ -6,7 +6,7 @@
 
 [![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=18&color=blue&style=for-the-badge)](./) 
 [![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=52.7k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-11-09&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-11-10&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
