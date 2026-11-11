@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=81&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=825.1k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-11-10&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=82&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=826.5k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-11-11&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -85,7 +85,7 @@
 | [**`PhysiClaw`**](https://github.com/physiclaw/PhysiClaw) | The AI agent that physically operates a phone — the way you do. | [![Stars](https://img.shields.io/github/stars/physiclaw/PhysiClaw?style=flat&label=⭐)](https://github.com/physiclaw/PhysiClaw) | `Python` | [Explore ↗](https://github.com/physiclaw/PhysiClaw) |
 | [**`grasp`**](https://github.com/cocofhu/grasp) | Grasp helps you manage multiple projects and parallel coding agents in one visual workflow, so humans can understand faster and ship more. | [![Stars](https://img.shields.io/github/stars/cocofhu/grasp?style=flat&label=⭐)](https://github.com/cocofhu/grasp) | `Go` | [Explore ↗](https://github.com/cocofhu/grasp) |
 | [**`open-browser-use`**](https://github.com/iFurySt/open-browser-use) | 🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple. | [![Stars](https://img.shields.io/github/stars/iFurySt/open-browser-use?style=flat&label=⭐)](https://github.com/iFurySt/open-browser-use) | `JavaScript` | [Explore ↗](https://github.com/iFurySt/open-browser-use) |
-| [**`oya-browser`**](https://github.com/OyadotAI/oya-browser) | The browser control plane for AI agents. One API over Oya Cloud, Browserbase, Steel, Anchor, Browser Use and your own Chrome, with persistent personas, CAPTCHA and MFA handling, and live human takeover. | [![Stars](https://img.shields.io/github/stars/OyadotAI/oya-browser?style=flat&label=⭐)](https://github.com/OyadotAI/oya-browser) | `TypeScript` | [Explore ↗](https://github.com/OyadotAI/oya-browser) |
+| [**`oya-browser`**](https://github.com/OyadotAI/oya-browser) | HIPAA-compliant browser for AI agents: an AI browser on desktop, agentic browsers in the cloud, every action audited. | [![Stars](https://img.shields.io/github/stars/OyadotAI/oya-browser?style=flat&label=⭐)](https://github.com/OyadotAI/oya-browser) | `TypeScript` | [Explore ↗](https://github.com/OyadotAI/oya-browser) |
 | [**`bladebro`**](https://github.com/dondai44423/bladebro) | A Fully free agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency. | [![Stars](https://img.shields.io/github/stars/dondai44423/bladebro?style=flat&label=⭐)](https://github.com/dondai44423/bladebro) | `Rust` | [Explore ↗](https://github.com/dondai44423/bladebro) |
 | [**`FreeQwenApi`**](https://github.com/y13sint/FreeQwenApi) | Локальный API-прокси для Qwen AI с поддержкой сохранения контекста диалогов и управления сессиями через REST API | [![Stars](https://img.shields.io/github/stars/y13sint/FreeQwenApi?style=flat&label=⭐)](https://github.com/y13sint/FreeQwenApi) | `JavaScript` | [Explore ↗](https://github.com/y13sint/FreeQwenApi) |
 | [**`agent-chrome-relay`**](https://github.com/aindeev/agent-chrome-relay) | Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev | [![Stars](https://img.shields.io/github/stars/aindeev/agent-chrome-relay?style=flat&label=⭐)](https://github.com/aindeev/agent-chrome-relay) | `JavaScript` | [Explore ↗](https://github.com/aindeev/agent-chrome-relay) |
@@ -95,6 +95,7 @@
 | [**`openbrowser-ai`**](https://github.com/billy-enrizky/openbrowser-ai) | OpenBrowser is a framework for intelligent browser automation. It combines direct CDP communication with a CodeAgent architecture, where the LLM writes Python code executed in a persistent namespace, to navigate, interact with, and extract information from web pages autonomously. | [![Stars](https://img.shields.io/github/stars/billy-enrizky/openbrowser-ai?style=flat&label=⭐)](https://github.com/billy-enrizky/openbrowser-ai) | `Python` | [Explore ↗](https://github.com/billy-enrizky/openbrowser-ai) |
 | [**`socai`**](https://github.com/socai-io/socai) | Agent that actually understands social platforms. Fast. Precise. Deep. | [![Stars](https://img.shields.io/github/stars/socai-io/socai?style=flat&label=⭐)](https://github.com/socai-io/socai) | `Rust` | [Explore ↗](https://github.com/socai-io/socai) |
 | [**`webqa-agent`**](https://github.com/MigoXLab/webqa-agent) | Autonomous web browser agent that audits performance, functionality & UX for engineers and vibe-coding creators. 网站自主评估测试 Agent，支持 GUI/CLI 一键完成性能、功能使用与交互体验的测试评估 | [![Stars](https://img.shields.io/github/stars/MigoXLab/webqa-agent?style=flat&label=⭐)](https://github.com/MigoXLab/webqa-agent) | `Python` | [Explore ↗](https://github.com/MigoXLab/webqa-agent) |
+| [**`WebsiteBench`**](https://github.com/TIGER-AI-Lab/WebsiteBench) | Can AI agents rebuild websites through browser exploration? | [![Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/WebsiteBench?style=flat&label=⭐)](https://github.com/TIGER-AI-Lab/WebsiteBench) | `Python` | [Explore ↗](https://github.com/TIGER-AI-Lab/WebsiteBench) |
 
 ---
 
