@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=31&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=215.5k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-11-18&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=32&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=216.2k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-11-19&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -36,6 +36,7 @@
 | [**`awesome-vibe-coding`**](https://github.com/awesome-vibe-coding/awesome-vibe-coding) | A hand-picked collection of tools and resources for Vibe Coding | [![Stars](https://img.shields.io/github/stars/awesome-vibe-coding/awesome-vibe-coding?style=flat&label=⭐)](https://github.com/awesome-vibe-coding/awesome-vibe-coding) | `HTML` | [Explore ↗](https://github.com/awesome-vibe-coding/awesome-vibe-coding) |
 | [**`airship`**](https://github.com/0xnyn/airship) | Figma like visual editor built for Claude Code, Codex and OpenCode | [![Stars](https://img.shields.io/github/stars/0xnyn/airship?style=flat&label=⭐)](https://github.com/0xnyn/airship) | `TypeScript` | [Explore ↗](https://github.com/0xnyn/airship) |
 | [**`Visual-Code-Space`**](https://github.com/Visual-Code-Space/Visual-Code-Space) | A Modern Code Editor for Android | [![Stars](https://img.shields.io/github/stars/Visual-Code-Space/Visual-Code-Space?style=flat&label=⭐)](https://github.com/Visual-Code-Space/Visual-Code-Space) | `Kotlin` | [Explore ↗](https://github.com/Visual-Code-Space/Visual-Code-Space) |
+| [**`theia-ide`**](https://github.com/eclipse-theia/theia-ide) | The Theia IDE: an open-source, AI-native IDE for desktop and browser, built on the Theia Platform and Theia AI. Bring your own key for any LLM, with MCP, Agent Skills, Claude Code and GitHub Copilot support. | [![Stars](https://img.shields.io/github/stars/eclipse-theia/theia-ide?style=flat&label=⭐)](https://github.com/eclipse-theia/theia-ide) | `TypeScript` | [Explore ↗](https://github.com/eclipse-theia/theia-ide) |
 | [**`Velocity`**](https://github.com/ishandutta2007/Velocity) | 🚀🪐🌕🌑☄️🛸 Opensource equivalent of Google's Antigravity/Claude Code/Cursor | [![Stars](https://img.shields.io/github/stars/ishandutta2007/Velocity?style=flat&label=⭐)](https://github.com/ishandutta2007/Velocity) | `TypeScript` | [Explore ↗](https://github.com/ishandutta2007/Velocity) |
 | [**`mco`**](https://github.com/mco-org/mco) | CLI-first orchestration for AI coding agents: run selected agents and models in parallel, compare raw answers, and coordinate review or implementation workflows. | [![Stars](https://img.shields.io/github/stars/mco-org/mco?style=flat&label=⭐)](https://github.com/mco-org/mco) | `Python` | [Explore ↗](https://github.com/mco-org/mco) |
 | [**`awesome-cursor-download`**](https://github.com/worryzyy/awesome-cursor-download) | Cursor历史版本下载、Cursor下载链接追踪器，Cursor beta版本、 Cursor下载中心 | [![Stars](https://img.shields.io/github/stars/worryzyy/awesome-cursor-download?style=flat&label=⭐)](https://github.com/worryzyy/awesome-cursor-download) | `TypeScript` | [Explore ↗](https://github.com/worryzyy/awesome-cursor-download) |
