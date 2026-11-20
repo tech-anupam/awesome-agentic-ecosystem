@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=32&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=216.2k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-11-19&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=33&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=216.5k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-11-20&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -46,6 +46,7 @@
 | [**`coloride`**](https://github.com/Color-IDE/coloride) | A local desktop IDE. Open a folder and edit, run a terminal, and browse on your own machine. Sign-in and the agent are optional. | [![Stars](https://img.shields.io/github/stars/Color-IDE/coloride?style=flat&label=⭐)](https://github.com/Color-IDE/coloride) | `TypeScript` | [Explore ↗](https://github.com/Color-IDE/coloride) |
 | [**`Coloride-old`**](https://github.com/Color-IDE/Coloride-old) | A local desktop IDE. Open a folder and edit, run a terminal, and browse on your own machine. Sign-in and the agent are optional. | [![Stars](https://img.shields.io/github/stars/Color-IDE/Coloride-old?style=flat&label=⭐)](https://github.com/Color-IDE/Coloride-old) | `TypeScript` | [Explore ↗](https://github.com/Color-IDE/Coloride-old) |
 | [**`Coloride-old`**](https://github.com/coloride-group/Coloride-old) | A local desktop IDE. Open a folder and edit, run a terminal, and browse on your own machine. Sign-in and the agent are optional. | [![Stars](https://img.shields.io/github/stars/coloride-group/Coloride-old?style=flat&label=⭐)](https://github.com/coloride-group/Coloride-old) | `TypeScript` | [Explore ↗](https://github.com/coloride-group/Coloride-old) |
+| [**`tempest`**](https://github.com/tempestai-dev/tempest) | Agentic Engineering that actually scales. Run Claude Code, Codex, Gemini and any other CLI Agents in parallel with upto 86% fewer tokens and 92% fewer tool calls | [![Stars](https://img.shields.io/github/stars/tempestai-dev/tempest?style=flat&label=⭐)](https://github.com/tempestai-dev/tempest) | `TypeScript` | [Explore ↗](https://github.com/tempestai-dev/tempest) |
 
 ---
 
