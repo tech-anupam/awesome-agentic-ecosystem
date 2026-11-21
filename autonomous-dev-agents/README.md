@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=27&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=426.1k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-11-20&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=26&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=424.9k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-11-21&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -35,7 +35,6 @@
 | [**`rllm`**](https://github.com/rllm-org/rllm) | Democratizing Reinforcement Learning for LLMs | [![Stars](https://img.shields.io/github/stars/rllm-org/rllm?style=flat&label=⭐)](https://github.com/rllm-org/rllm) | `Python` | [Explore ↗](https://github.com/rllm-org/rllm) |
 | [**`Fuxi`**](https://github.com/fuxicodex/Fuxi) | FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers. | [![Stars](https://img.shields.io/github/stars/fuxicodex/Fuxi?style=flat&label=⭐)](https://github.com/fuxicodex/Fuxi) | `Python` | [Explore ↗](https://github.com/fuxicodex/Fuxi) |
 | [**`ATLAS`**](https://github.com/inferstep/ATLAS) | Adaptive Test-time Learning and Autonomous Specialization | [![Stars](https://img.shields.io/github/stars/inferstep/ATLAS?style=flat&label=⭐)](https://github.com/inferstep/ATLAS) | `Python` | [Explore ↗](https://github.com/inferstep/ATLAS) |
-| [**`paca`**](https://github.com/Paca-AI/paca) | Non-profit, community-owned and free forever: an AI-native, open-source alternative to Jira, Trello, ClickUp & Monday, where humans and AI agents work as equals on the same Scrum board. Self-hosted, fully customizable via plugins. | [![Stars](https://img.shields.io/github/stars/Paca-AI/paca?style=flat&label=⭐)](https://github.com/Paca-AI/paca) | `Go` | [Explore ↗](https://github.com/Paca-AI/paca) |
 | [**`deva`**](https://github.com/sqfcyily/deva) | 对话式 AI 助手 · All in Chat - 把 Agent 能力装进对话里，无需复杂配置，像聊天一样使用 Agent。已内置破甲角色「小码酱」，支持国模破甲。 | [![Stars](https://img.shields.io/github/stars/sqfcyily/deva?style=flat&label=⭐)](https://github.com/sqfcyily/deva) | `TypeScript` | [Explore ↗](https://github.com/sqfcyily/deva) |
 | [**`opencode-telegram-bot`**](https://github.com/grinev/opencode-telegram-bot) | OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. OpenCode V2 support. | [![Stars](https://img.shields.io/github/stars/grinev/opencode-telegram-bot?style=flat&label=⭐)](https://github.com/grinev/opencode-telegram-bot) | `TypeScript` | [Explore ↗](https://github.com/grinev/opencode-telegram-bot) |
 | [**`Repo2RLEnv`**](https://github.com/huggingface/Repo2RLEnv) | Turn any repository into verifiable RL environments for coding agents - Harbor tasks you can train on, evaluate and share on the Hugging Face Hub | [![Stars](https://img.shields.io/github/stars/huggingface/Repo2RLEnv?style=flat&label=⭐)](https://github.com/huggingface/Repo2RLEnv) | `Python` | [Explore ↗](https://github.com/huggingface/Repo2RLEnv) |

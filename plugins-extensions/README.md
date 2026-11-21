@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=18&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=124.6k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-11-20&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=17&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=104.6k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-11-21&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -16,7 +16,6 @@
 | :--- | :--- | :---: | :---: | :---: |
 | [**`awesome-cursorrules`**](https://github.com/PatrickJS/awesome-cursorrules) | 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors | [![Stars](https://img.shields.io/github/stars/PatrickJS/awesome-cursorrules?style=flat&label=⭐)](https://github.com/PatrickJS/awesome-cursorrules) | `Markdown` | [Explore ↗](https://github.com/PatrickJS/awesome-cursorrules) |
 | [**`kilocode`**](https://github.com/Kilo-Org/kilocode) | Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. | [![Stars](https://img.shields.io/github/stars/Kilo-Org/kilocode?style=flat&label=⭐)](https://github.com/Kilo-Org/kilocode) | `TypeScript` | [Explore ↗](https://github.com/Kilo-Org/kilocode) |
-| [**`rocketride-server`**](https://github.com/rocketride-org/rocketride-server) | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment. | [![Stars](https://img.shields.io/github/stars/rocketride-org/rocketride-server?style=flat&label=⭐)](https://github.com/rocketride-org/rocketride-server) | `Python` | [Explore ↗](https://github.com/rocketride-org/rocketride-server) |
 | [**`Roo-Cline`**](https://github.com/RooVetGit/Roo-Cline) | Autonomous coding assistant for VS Code with custom modes, sound effects, browser testing, and custom MCP support. | [![Stars](https://img.shields.io/github/stars/RooVetGit/Roo-Cline?style=flat&label=⭐)](https://github.com/RooVetGit/Roo-Cline) | `TypeScript` | [Explore ↗](https://github.com/RooVetGit/Roo-Cline) |
 | [**`KiroCrew`**](https://github.com/kirodotdev/KiroCrew) | A persistent workspace for development work that self-improves and continues beyond one session. | [![Stars](https://img.shields.io/github/stars/kirodotdev/KiroCrew?style=flat&label=⭐)](https://github.com/kirodotdev/KiroCrew) | `Python` | [Explore ↗](https://github.com/kirodotdev/KiroCrew) |
 | [**`costrict`**](https://github.com/zgsm-ai/costrict) | Costrict - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion. | [![Stars](https://img.shields.io/github/stars/zgsm-ai/costrict?style=flat&label=⭐)](https://github.com/zgsm-ai/costrict) | `TypeScript` | [Explore ↗](https://github.com/zgsm-ai/costrict) |
