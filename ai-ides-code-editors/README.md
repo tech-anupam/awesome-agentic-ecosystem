@@ -4,9 +4,9 @@
 
 [← Back to Main Repository](../README.md) • [⭐ Star Repository](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
-[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=34&color=blue&style=for-the-badge)](./) 
-[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=217.7k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
-[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-11-21&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+[![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=33&color=blue&style=for-the-badge)](./) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=216.6k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-11-22&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
 
@@ -30,7 +30,6 @@
 | [**`nezha`**](https://github.com/hanshuaikang/nezha) | Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine. | [![Stars](https://img.shields.io/github/stars/hanshuaikang/nezha?style=flat&label=⭐)](https://github.com/hanshuaikang/nezha) | `TypeScript` | [Explore ↗](https://github.com/hanshuaikang/nezha) |
 | [**`skills-hub`**](https://github.com/qufei1993/skills-hub) | A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”. | [![Stars](https://img.shields.io/github/stars/qufei1993/skills-hub?style=flat&label=⭐)](https://github.com/qufei1993/skills-hub) | `Rust` | [Explore ↗](https://github.com/qufei1993/skills-hub) |
 | [**`nopua`**](https://github.com/wuji-labs/nopua) | 一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love. | [![Stars](https://img.shields.io/github/stars/wuji-labs/nopua?style=flat&label=⭐)](https://github.com/wuji-labs/nopua) | `Python` | [Explore ↗](https://github.com/wuji-labs/nopua) |
-| [**`MROffice`**](https://github.com/XinaTian/MROffice) | MR Office: open-source document, spreadsheet, presentation, PDF, handwriting and code editors. https://mroffice.ai | [![Stars](https://img.shields.io/github/stars/XinaTian/MROffice?style=flat&label=⭐)](https://github.com/XinaTian/MROffice) | `TypeScript` | [Explore ↗](https://github.com/XinaTian/MROffice) |
 | [**`eca`**](https://github.com/editor-code-assistant/eca) | Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor | [![Stars](https://img.shields.io/github/stars/editor-code-assistant/eca?style=flat&label=⭐)](https://github.com/editor-code-assistant/eca) | `Clojure` | [Explore ↗](https://github.com/editor-code-assistant/eca) |
 | [**`markra`**](https://github.com/markrahq/markra) | A WYSIWYG Markdown editor with native AI. Fully open source. Free to use. Your data stays local. | [![Stars](https://img.shields.io/github/stars/markrahq/markra?style=flat&label=⭐)](https://github.com/markrahq/markra) | `TypeScript` | [Explore ↗](https://github.com/markrahq/markra) |
 | [**`we0`**](https://github.com/we0-dev/we0) | we0 is an AI code editor for development programmers and product managers. same v0, bolt.new,lovable | [![Stars](https://img.shields.io/github/stars/we0-dev/we0?style=flat&label=⭐)](https://github.com/we0-dev/we0) | `TypeScript` | [Explore ↗](https://github.com/we0-dev/we0) |
